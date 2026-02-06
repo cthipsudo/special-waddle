@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cthipsudo/special-waddle/issues"
   },
-  "homepage": "https://github.com/cthipsudo/special-waddle#readme"
+  "homepage": "https://github.com/cthipsudo/special-waddle#readme",
+  "dependencies": {
+    "mongoose": "^9.1.6"
+  }
 }
